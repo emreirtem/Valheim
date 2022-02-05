@@ -21,8 +21,8 @@ GfxDevice: creating device client; threaded=1
 [Vulkan init] extensions: name=VK_EXT_swapchain_colorspace, enabled=1
 [Vulkan init] extensions: name=VK_NV_external_memory_capabilities, enabled=0
 [Vulkan init] SelectPhysicalDevice requestedDeviceIndex=-1 xrDevice=0000000000000000
-[Vulkan init] Physical Device 00000168E1597550 [0]: "NVIDIA GeForce GTX 1650" deviceType=2 vendorID=10de deviceID=1f91
-[Vulkan init] Selected physical device 00000168E1597550
+[Vulkan init] Physical Device 000001E2ABC59550 [0]: "NVIDIA GeForce GTX 1650" deviceType=2 vendorID=10de deviceID=1f91
+[Vulkan init] Selected physical device 000001E2ABC59550
 [Vulkan init] Graphics queue count=1
 [Vulkan init] extensions: count=138
 [Vulkan init] extensions: name=VK_KHR_16bit_storage, enabled=0
@@ -168,16 +168,16 @@ Vulkan vendor=[NVIDIA] id=[10de]
 Vulkan renderer=[NVIDIA GeForce GTX 1650] id=[1f91]
 Vulkan device type 2
 Vulkan driverversion=[0x75d80000] uint=[1977090048]
-Vulkan PSO: Cache data successfully loaded [size=5782412,path=C:/Users/irtem/AppData/Local/Temp/IronGate/Valheim/vulkan_pso_cache.bin]
+Vulkan PSO: Cache data successfully loaded [size=5829562,path=C:/Users/irtem/AppData/Local/Temp/IronGate/Valheim/vulkan_pso_cache.bin]
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.130 seconds
+- Completed reload, in  0.096 seconds
 Microsoft Media Foundation video decoding to texture disabled: graphics device is Vulkan, only Direct3D 11 and Direct3D 12 (only on desktop) are supported for hardware-accelerated video decoding.
 <RI> Initializing input.
 <RI> Input initialized.
 InitializeOrResetSwapChain 1920x1080 hdr=0 samples=1
 <RI> Initialized touch support.
-UnloadTime: 1.886500 ms
-02/05/2022 21:55:26: Starting to load scene:start
+UnloadTime: 3.480400 ms
+02/05/2022 22:26:27: Starting to load scene:start
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
@@ -189,821 +189,337 @@ Couldn't create a Convex Mesh from source mesh "default" within the maximum poly
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 1b78 -> priority: 1 
-  Thread -> id: 600c -> priority: 1 
-  Thread -> id: 5450 -> priority: 1 
-  Thread -> id: 594c -> priority: 1 
-UnloadTime: 7.866500 ms
+  Thread -> id: 45c0 -> priority: 1 
+  Thread -> id: 41fc -> priority: 1 
+  Thread -> id: 40ec -> priority: 1 
+  Thread -> id: 1ce4 -> priority: 1 
+UnloadTime: 7.866800 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu). 
 (Filename:  Line: 516)
 
-02/05/2022 21:55:31: Valheim version:0.206.5
+02/05/2022 22:26:33: Valheim version:0.206.5
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:31: Render threading mode:MultiThreaded
+02/05/2022 22:26:33: Render threading mode:MultiThreaded
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:31: Using environment steamid 892970
+02/05/2022 22:26:33: Using environment steamid 892970
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:31: Using steam APPID:892970
+02/05/2022 22:26:33: Using steam APPID:892970
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:31: Authentication:k_ESteamNetworkingAvailability_Attempting
+02/05/2022 22:26:34: Authentication:k_ESteamNetworkingAvailability_Attempting
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:31: Steam initialized, persona:Cheers
+02/05/2022 22:26:34: Steam initialized, persona:Cheers
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:31: Missing audio clip in music respawn
+02/05/2022 22:26:34: Missing audio clip in music respawn
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:31: Checking for installed DLCs
+02/05/2022 22:26:34: Checking for installed DLCs
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:31: DLC:beta installed:False
+02/05/2022 22:26:34: DLC:beta installed:False
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:31: Builder started
+02/05/2022 22:26:34: Builder started
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:32: Loaded localization CSV:localization language:English
+02/05/2022 22:26:34: Loaded localization CSV:localization language:English
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:32: Loaded localization CSV:localization_extra language:English
+02/05/2022 22:26:34: Loaded localization CSV:localization_extra language:English
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:32: Loaded localization CSV:localization language:Turkish
+02/05/2022 22:26:34: Loaded localization CSV:localization language:Turkish
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:32: Loaded localization CSV:localization_extra language:Turkish
+02/05/2022 22:26:34: Loaded localization CSV:localization_extra language:Turkish
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:32: UI Group status changed Menu = True
+02/05/2022 22:26:34: UI Group status changed Menu = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 InitializeOrResetSwapChain 1920x1080 hdr=0 samples=1
 
 Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 100192.
-Total: 67.329300 ms (FindLiveObjects: 4.516700 ms CreateObjectMapping: 12.066800 ms MarkObjects: 50.418200 ms  DeleteObjects: 0.327100 ms)
+Total: 72.202200 ms (FindLiveObjects: 4.401300 ms CreateObjectMapping: 13.974500 ms MarkObjects: 52.893900 ms  DeleteObjects: 0.932000 ms)
 
-02/05/2022 21:55:34: UI Group status changed Menu = True
+02/05/2022 22:26:37: UI Group status changed Menu = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:36: FOund selected Start game
+02/05/2022 22:26:42: FOund selected Start game
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:36: show character selection
+02/05/2022 22:26:42: show character selection
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:42: OnCharacterStart
+02/05/2022 22:26:44: OnCharacterStart
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 8.266600 ms
-02/05/2022 21:55:45: Loading player profile leo
+UnloadTime: 11.095700 ms
+02/05/2022 22:26:48: Loading player profile leo
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:45: Zonesystem Awake 728
+02/05/2022 22:26:48: Zonesystem Awake 716
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:45: DungeonDB Awake 728
+02/05/2022 22:26:48: DungeonDB Awake 716
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:45: Steam initialized, persona:Cheers
+02/05/2022 22:26:48: Steam initialized, persona:Cheers
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:49: Audioman already exist, destroying self
+02/05/2022 22:26:51: Audioman already exist, destroying self
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:49: Checking for installed DLCs
+02/05/2022 22:26:51: Checking for installed DLCs
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:49: DLC:beta installed:False
+02/05/2022 22:26:51: DLC:beta installed:False
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
 
 Unloading 518 unused Assets to reduce memory usage. Loaded Objects now: 99639.
-Total: 79.540000 ms (FindLiveObjects: 4.516900 ms CreateObjectMapping: 17.075700 ms MarkObjects: 56.515700 ms  DeleteObjects: 1.430900 ms)
+Total: 77.332300 ms (FindLiveObjects: 6.016100 ms CreateObjectMapping: 12.814300 ms MarkObjects: 56.996000 ms  DeleteObjects: 1.505300 ms)
 
-02/05/2022 21:55:52: Zonesystem Start 728
+02/05/2022 22:26:55: Zonesystem Start 716
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:52: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
+02/05/2022 22:26:55: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:53: DungeonDB Start 728
+02/05/2022 22:26:55: DungeonDB Start 716
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:53: Load world kattegat
+02/05/2022 22:26:55: Load world kattegat
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:53: Loading 137395 zdos , my id 1865391789 data version:28
+02/05/2022 22:26:55: Loading 137421 zdos , my id 1891050192 data version:28
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:53: Loaded 100000 dead zdos
+02/05/2022 22:26:56: Loaded 100000 dead zdos
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:53: Removed 0 OLD generated ZDOS
+02/05/2022 22:26:56: Removed 0 OLD generated ZDOS
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:53: Loaded 7343 locations
+02/05/2022 22:26:56: Loaded 7343 locations
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:55:54: Starting respawn
+02/05/2022 22:26:56: Starting respawn
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:03: Unpacking compressed mapdata 9197
+02/05/2022 22:27:06: Unpacking compressed mapdata 9197
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:03: tip:$loadscreen_tip05
+02/05/2022 22:27:06: tip:$loadscreen_tip05
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-InitializeOrResetSwapChain 1920x1080 hdr=0 samples=1
-02/05/2022 21:56:07: Loading dungeon
+02/05/2022 22:27:09: Loading dungeon
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:07: Dungeon loaded 38
+02/05/2022 22:27:09: Dungeon loaded 38
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:07: Dungeon load time 51,9989 ms
+02/05/2022 22:27:09: Dungeon load time 52,9978 ms
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:12: Found bed at custom spawn point
+02/05/2022 22:27:14: Found bed at custom spawn point
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:12: Minimap: Adding unique location (6.2, 80.2, 3.9)
+02/05/2022 22:27:14: Minimap: Adding unique location (6.2, 80.2, 3.9)
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:17: Spawned FireFlies x 1
+02/05/2022 22:27:24: Setting selected recipe 0
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:20: Setting selected recipe 0
+02/05/2022 22:27:24: UI Group status changed root = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:21: UI Group status changed root = True
+02/05/2022 22:27:24: UI Group status changed Player = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:21: UI Group status changed Player = True
+02/05/2022 22:27:40: Placed stone_pile
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:25: Player 1865391789 wants to open piece_chest_wood(Clone)   im: 1865391789
+02/05/2022 22:27:44: Is mine
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:25: Setting selected recipe 0
+02/05/2022 22:27:44: is current spawnpoint
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:25: UI Group status changed root = True
+02/05/2022 22:27:45: Is mine
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:25: UI Group status changed Player = True
+02/05/2022 22:27:45: is current spawnpoint
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:25: UI Group status changed Container = False
+02/05/2022 22:27:45: exporeusre check 1  True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:28: Added to stack20 0
+02/05/2022 22:27:45: Ignoring 2 colliders
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:28: Setting selected recipe 0
+02/05/2022 22:27:46: Time 56030,0599713884, day:30    nextm:56070,0000107288  skipspeed:3,32833661170055
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:33: Added to stack12 0
+02/05/2022 22:28:04: UI Group status changed MenuRoot = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:33: Setting selected recipe 0
+02/05/2022 22:28:07: UI Group status changed MenuRoot = False
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:36: Player 1865391789 wants to open piece_chest_wood(Clone)   im: 1865391789
+02/05/2022 22:28:07: Shuting down
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:36: Setting selected recipe 0
+02/05/2022 22:28:08: Uncompressed size 8389177
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:36: UI Group status changed root = True
+02/05/2022 22:28:08: Compressed size 9197
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:36: UI Group status changed Player = True
+02/05/2022 22:28:08: ZNet Shutdown
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:41: Spawned FireFlies x 1
+02/05/2022 22:28:08: clone 187
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:42: Player 1865391789 wants to open piece_chest_wood(Clone)   im: 1865391789
+02/05/2022 22:28:08: Saved 137419 zdos
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:42: Setting selected recipe 0
+02/05/2022 22:28:08: World saved ( 312,9986ms )
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:42: UI Group status changed root = True
+02/05/2022 22:28:08: Sending disconnect msg
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:42: UI Group status changed Player = True
+02/05/2022 22:28:08: FOund selected Button_yes
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:44: Added to stack50 0
+02/05/2022 22:28:08: Local player destroyed
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:44: Setting selected recipe 0
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+02/05/2022 22:28:09: ZNet OnDestroy
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:54: Setting selected recipe 0
+02/05/2022 22:28:09: Net scene destroyed
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 21:56:56: Setting selected recipe 0
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:00: Setting selected recipe 0
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:01: Spawned Greydwarf x 1
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:04: Player 1865391789 wants to open piece_chest_wood(Clone)   im: 1865391789
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:04: Setting selected recipe 0
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:04: UI Group status changed root = True
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:04: UI Group status changed Player = True
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:05: Spawned FireFlies x 1
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:09: Added to stack19 0
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:09: Setting selected recipe 0
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:13: Added to stack50 2
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:14: Drop item $item_bonefragments
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:14: drop all 2  2
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:14: Setting selected recipe 0
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:17: Drop item $item_boar_meat
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:17: drop all 1  1
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:17: Setting selected recipe 0
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:18: Drop item $item_stone
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:18: drop all 5  5
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:18: Setting selected recipe 0
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:24: Setting selected recipe 0
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:25: UI Group status changed root = False
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:25: UI Group status changed Player = False
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:29: Spawned FireFlies x 1
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:31: UI Group status changed root = True
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:31: UI Group status changed Player = True
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:32: Setting selected recipe 0
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:33: UI Group status changed root = False
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:33: UI Group status changed Player = False
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:33: UI Group status changed SplitDialog = True
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:35: UI Group status changed root = True
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:35: UI Group status changed Player = True
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:36: Setting selected recipe 0
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:38: Setting selected recipe 0
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:57: Player 1865391789 wants to open piece_chest_wood(Clone)   im: 1865391789
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:57: Setting selected recipe 0
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:57: UI Group status changed root = True
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:57:57: UI Group status changed Player = True
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:58:04: Setting selected recipe 0
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:58:04: UI Group status changed root = True
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:58:04: UI Group status changed Player = True
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:58:21: Placed wood_pole2
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:58:26: Placed wood_pole2
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:58:33: Placed wood_floor
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:58:37: Placed wood_floor
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:58:41: Spawned FireFlies x 1
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:58:43: Placed wood_floor
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:58:59: Disabling jump_trigger  character_trigger
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:58:59: Disabling jump_trigger (1)  character_trigger
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:58:59: Disabling jump_trigger (2)  character_trigger
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:59:05: Spawned FireFlies x 1
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:59:19: Placed wood_stepladder
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:59:19: Disabling jump_trigger  character_trigger
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:59:19: Disabling jump_trigger (1)  character_trigger
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:59:19: Disabling jump_trigger (2)  character_trigger
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:59:39: Placed wood_stepladder
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:59:39: Disabling jump_trigger  character_trigger
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:59:39: Disabling jump_trigger (1)  character_trigger
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:59:39: Disabling jump_trigger (2)  character_trigger
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:59:45: Spawned Greydwarf_Elite x 1
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 21:59:53: Spawned FireFlies x 1
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:00:20: Setting selected recipe 0
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:00:20: UI Group status changed root = True
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:00:20: UI Group status changed Player = True
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:00:25: Added to stack50 0
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:00:25: Setting selected recipe 0
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:00:26: Drop item $item_stone
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:00:26: drop all 50  50
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:00:26: Setting selected recipe 1
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:00:41: Spawned FireFlies x 1
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:01:05: Spawned FireFlies x 1
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:01:10: Disabling jump_trigger  character_trigger
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:01:10: Disabling jump_trigger (1)  character_trigger
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:01:10: Disabling jump_trigger (2)  character_trigger
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:01:13: hit mine rock 91
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:01:15: Placed wood_stepladder
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:01:15: Disabling jump_trigger  character_trigger
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:01:15: Disabling jump_trigger (1)  character_trigger
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:01:15: Disabling jump_trigger (2)  character_trigger
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:01:17: Spawned Greydwarf_Shaman x 1
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:01:33: Disabling jump_trigger  character_trigger
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:01:33: Disabling jump_trigger (1)  character_trigger
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:01:33: Disabling jump_trigger (2)  character_trigger
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:01:39: Placed stone_pile
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:01:53: Spawned FireFlies x 1
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:02:02: hit mine rock 80
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:02:07: hit mine rock 17
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:02:11: hit mine rock 110
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:02:12: Poison damage: 7,368925 ttl:7,069978 hits:7 dmg perhit:1,052704
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:02:12: hit mine rock 38
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:02:12: hit mine rock 110
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:02:17: Spawned FireFlies x 1
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:02:18: hit mine rock 80
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:02:18: hit mine rock 63
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:02:25: hit mine rock 82
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:02:27: hit mine rock 92
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:02:27: Poison damage: 6,64993 ttl:6,766251 hits:6 dmg perhit:1,108322
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:02:30: hit mine rock 30
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:02:36: Poison damage: 7,86577 ttl:7,271272 hits:7 dmg perhit:1,123681
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:02:48: UI Group status changed MenuRoot = True
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:02:55: Starting respawn
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:02:55: Local player destroyed
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:02:55: tip:$loadscreen_tip25
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:02:56: hit mine rock 82
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:02:59: hit mine rock 30
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:03:03: Found bed at custom spawn point
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:03:05: Spawned FireFlies x 1
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+UnloadTime: 1050.794500 ms
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu). 
+(Filename:  Line: 516)
 
-02/05/2022 22:03:11: hit mine rock 43
+02/05/2022 22:28:09: Valheim version:0.206.5
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 22:03:16: Grave should fit in inventory, loot all
+02/05/2022 22:28:09: Render threading mode:MultiThreaded
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 22:03:16: Player 1865391789 wants to takeall from Player_tombstone(Clone)   im: 1865391789
+02/05/2022 22:28:09: Steam initialized, persona:Cheers
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 22:03:19: Setting selected recipe 1
+02/05/2022 22:28:09: Audioman already exist, destroying self
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 22:03:19: UI Group status changed root = True
+02/05/2022 22:28:09: Checking for installed DLCs
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 22:03:19: UI Group status changed Player = True
+02/05/2022 22:28:09: DLC:beta installed:False
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 22:03:29: Spawned Greydwarf_Shaman x 1
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:03:29: Spawned FireFlies x 1
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:03:33: Spawned Seagal x 1
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:03:36: UI Group status changed MenuRoot = True
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:03:37: UI Group status changed MenuRoot = False
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:03:38: Game - OnApplicationQuit
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:03:38: Shuting down
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:03:38: Uncompressed size 8389217
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 22:03:38: Compressed size 9227
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:03:38: ZNet Shutdown
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:03:38: clone 227
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:03:38: Saved 137421 zdos
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:03:38: World saved ( 339,9998ms )
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:03:38: Sending disconnect msg
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:03:41: FOund selected Button_yes
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
-
-02/05/2022 22:03:41: ZNet OnDestroy
- 
-(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+Unloading 1040 unused Assets to reduce memory usage. Loaded Objects now: 99098.
+Total: 127.504400 ms (FindLiveObjects: 4.995900 ms CreateObjectMapping: 12.996700 ms MarkObjects: 104.555100 ms  DeleteObjects: 4.956100 ms)
 
-02/05/2022 22:03:41: Net scene destroyed
+02/05/2022 22:28:10: UI Group status changed Menu = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 22:03:41: Local player destroyed
+02/05/2022 22:28:12: UI Group status changed Menu = True
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-02/05/2022 22:03:41: Steam manager on destroy
+02/05/2022 22:28:14: Steam manager on destroy
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
 
-Vulkan PSO: data extracted [new size=5829562, old size=5782412, incomplete=0]
-Vulkan PSO: Saved size[5829562] path[C:/Users/irtem/AppData/Local/Temp/IronGate/Valheim/vulkan_pso_cache.bin] success=1 headerChanged=0 sizeChanged=1
+Vulkan PSO: data extracted [new size=5829562, old size=5829562, incomplete=0]
+Vulkan PSO: Pipeline cache has not changed skipping save handle[cc213d98]
