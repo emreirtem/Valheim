@@ -2,5 +2,7 @@
 /.idea/modules.xml
 /.idea/Valheim.iml
 /.idea/vcs.xml
-Player-prev.log
-Player.log
+/Player.log
+/Player-prev.log
+/worlds/steam_autocloud.vdf
+/characters/steam_autocloud.vdf
