@@ -10,121 +10,48 @@ Direct3D:
     VRAM:     6023 MB
     Driver:   30.0.15.1179
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.059 seconds
+- Completed reload, in  0.067 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.468400 ms
-06/30/2022 22:22:13: Starting to load scene:start
+UnloadTime: 0.607300 ms
+06/30/2022 23:39:41: Starting to load scene:start
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.677700 ms
+UnloadTime: 4.566900 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-06/30/2022 22:22:16: Using environment steamid 892970
-06/30/2022 22:22:16: Using steam APPID:892970
-06/30/2022 22:22:16: Authentication:k_ESteamNetworkingAvailability_Attempting
-06/30/2022 22:22:16: Steam initialized, persona:Bagator
-06/30/2022 22:22:16: Using default prefs
-06/30/2022 22:22:16: Valheim version:0.209.10
-06/30/2022 22:22:16: Render threading mode:MultiThreaded
-06/30/2022 22:22:16: Missing audio clip in music respawn
-06/30/2022 22:22:16: Checking for installed DLCs
-06/30/2022 22:22:16: DLC:beta installed:False
-06/30/2022 22:22:16: Builder started
-06/30/2022 22:22:16: Loaded localization CSV:localization language:English
-06/30/2022 22:22:16: Loaded localization CSV:localization_extra language:English
-06/30/2022 22:22:16: Loaded localization CSV:localization language:Turkish
-06/30/2022 22:22:16: Loaded localization CSV:localization_extra language:Turkish
-06/30/2022 22:22:16: UI Group status changed Menu = True
+06/30/2022 23:39:44: Using environment steamid 892970
+06/30/2022 23:39:44: Using steam APPID:892970
+06/30/2022 23:39:44: Authentication:k_ESteamNetworkingAvailability_Attempting
+06/30/2022 23:39:44: Steam initialized, persona:Bagator
+06/30/2022 23:39:44: Using default prefs
+06/30/2022 23:39:44: Valheim version:0.209.10
+06/30/2022 23:39:44: Render threading mode:MultiThreaded
+06/30/2022 23:39:44: Missing audio clip in music respawn
+06/30/2022 23:39:44: Checking for installed DLCs
+06/30/2022 23:39:44: DLC:beta installed:False
+06/30/2022 23:39:44: Builder started
+06/30/2022 23:39:45: Loaded localization CSV:localization language:English
+06/30/2022 23:39:45: Loaded localization CSV:localization_extra language:English
+06/30/2022 23:39:45: Loaded localization CSV:localization language:Turkish
+06/30/2022 23:39:45: Loaded localization CSV:localization_extra language:Turkish
+06/30/2022 23:39:45: UI Group status changed Menu = True
 
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 106374.
-Total: 45.353700 ms (FindLiveObjects: 3.027900 ms CreateObjectMapping: 6.115600 ms MarkObjects: 36.075500 ms  DeleteObjects: 0.134300 ms)
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 106434.
+Total: 45.391700 ms (FindLiveObjects: 3.269500 ms CreateObjectMapping: 5.938900 ms MarkObjects: 36.011500 ms  DeleteObjects: 0.171500 ms)
 
-06/30/2022 22:22:18: UI Group status changed Menu = True
-06/30/2022 22:22:21: FOund selected Start game
-06/30/2022 22:22:21: show character selection
-06/30/2022 22:22:42: UI Group status changed Menu = True
-06/30/2022 22:22:43: FOund selected Start game
-06/30/2022 22:22:43: show character selection
-06/30/2022 22:22:43: UI Group status changed SelectCharacter = True
-06/30/2022 22:23:14: UI Group status changed Menu = True
-06/30/2022 22:23:15: FOund selected Start game
-06/30/2022 22:23:15: show character selection
-06/30/2022 22:23:15: UI Group status changed SelectCharacter = True
-06/30/2022 22:23:18: OnCharacterStart
-06/30/2022 22:23:19: show character selection
-06/30/2022 22:23:19: UI Group status changed SelectCharacter = True
-06/30/2022 22:23:21: OnCharacterStart
-06/30/2022 22:23:21: UI Group status changed Panel = True
-Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 6.204200 ms
-06/30/2022 22:23:32: Steam initialized, persona:Bagator
-06/30/2022 22:23:32: Using default prefs
-06/30/2022 22:23:32: Loading player profile tiamut
-06/30/2022 22:23:32: isModded: False
-06/30/2022 22:23:32: Zonesystem Awake 5236
-06/30/2022 22:23:32: DungeonDB Awake 5236
-06/30/2022 22:23:32: Steam initialized, persona:Bagator
-06/30/2022 22:23:32: Registering lobby
-06/30/2022 22:23:34: Audioman already exist, destroying self
-06/30/2022 22:23:34: Checking for installed DLCs
-06/30/2022 22:23:34: DLC:beta installed:False
-
-Unloading 601 unused Assets to reduce memory usage. Loaded Objects now: 106396.
-Total: 50.834000 ms (FindLiveObjects: 2.675300 ms CreateObjectMapping: 5.729400 ms MarkObjects: 41.258500 ms  DeleteObjects: 1.170300 ms)
-
-06/30/2022 22:23:37: Zonesystem Start 5236
-06/30/2022 22:23:37: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
-06/30/2022 22:23:37: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
-06/30/2022 22:23:37: DungeonDB Start 5236
-06/30/2022 22:23:37: Load world: kattegat (kattegat)
-06/30/2022 22:23:37: Loading 295747 zdos , my id 547987145 data version:28
-06/30/2022 22:23:38: Loaded 100000 dead zdos
-06/30/2022 22:23:38: Removed 0 OLD generated ZDOS
-06/30/2022 22:23:38: Loaded 7461 locations
-06/30/2022 22:23:38: Lobby was created k_EResultOK  109775243573594869  error:False
-06/30/2022 22:23:38: Got requested lobby data
-06/30/2022 22:23:45: Unpacking compressed mapdata 14956
-06/30/2022 22:23:46: Got requested lobby data
-06/30/2022 22:23:46: Starting respawn
-06/30/2022 22:23:46: tip:$loadscreen_tip20
-06/30/2022 22:23:54: Spawned after 8.019994
-06/30/2022 22:23:54: Minimap: Adding unique location (6.2, 80.2, 3.9)
-06/30/2022 22:23:56: Resumed music home at 0
-06/30/2022 22:23:58: Setting selected recipe 0
-06/30/2022 22:23:58: UI Group status changed root = True
-06/30/2022 22:23:58: UI Group status changed Player = True
-06/30/2022 22:24:01: Stopped music home at 241785
-06/30/2022 22:24:16: UI Group status changed MenuRoot = False
-06/30/2022 22:24:17: Game - OnApplicationQuit
-06/30/2022 22:24:17: Shuting down
-06/30/2022 22:24:17: Uncompressed size 8391024
-06/30/2022 22:24:17: Compressed size 14956
-06/30/2022 22:24:17: ZNet Shutdown
-06/30/2022 22:24:17: clone 304
-06/30/2022 22:24:17: World save writing starting
-06/30/2022 22:24:17: World save writing started
-06/30/2022 22:24:18: Saved 295747 zdos
-06/30/2022 22:24:18: World save writing finishing
-06/30/2022 22:24:18: World save writing finished
-06/30/2022 22:24:18: World saved ( 575.5542ms )
-06/30/2022 22:24:18: Sending disconnect msg
-06/30/2022 22:24:18: Disposing socket
-06/30/2022 22:24:18: Stopping listening socket
-06/30/2022 22:24:18: Last socket, unregistering callback
-06/30/2022 22:24:18: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+06/30/2022 23:39:47: UI Group status changed Menu = True
+06/30/2022 23:39:49: FOund selected Start game
+06/30/2022 23:39:49: show character selection
+06/30/2022 23:39:57: UI Group status changed Menu = True
 Setting up 8 worker threads for Enlighten.
-  Thread -> id: 4cd8 -> priority: 1 
-  Thread -> id: 4198 -> priority: 1 
-  Thread -> id: 43c -> priority: 1 
-  Thread -> id: 3ff0 -> priority: 1 
-  Thread -> id: 2d58 -> priority: 1 
-  Thread -> id: 250c -> priority: 1 
-  Thread -> id: 1364 -> priority: 1 
-  Thread -> id: 2e84 -> priority: 1 
-06/30/2022 22:24:20: FOund selected Button_yes
-06/30/2022 22:24:20: ZNet OnDestroy
-06/30/2022 22:24:20: Net scene destroyed
-06/30/2022 22:24:20: Steam manager on destroy
-06/30/2022 22:24:21: Local player destroyed
+  Thread -> id: 2f3c -> priority: 1 
+  Thread -> id: 2b00 -> priority: 1 
+  Thread -> id: 24a8 -> priority: 1 
+  Thread -> id: 4dcc -> priority: 1 
+  Thread -> id: 208 -> priority: 1 
+  Thread -> id: 5198 -> priority: 1 
+  Thread -> id: 630 -> priority: 1 
+  Thread -> id: 50ec -> priority: 1 
+06/30/2022 23:39:58: Steam manager on destroy
