@@ -10,48 +10,38 @@ Direct3D:
     VRAM:     6023 MB
     Driver:   30.0.15.1179
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.067 seconds
+- Completed reload, in  0.062 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.607300 ms
-06/30/2022 23:39:41: Starting to load scene:start
+UnloadTime: 0.576900 ms
+06/30/2022 23:42:01: Starting to load scene:start
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.566900 ms
+UnloadTime: 5.126000 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-06/30/2022 23:39:44: Using environment steamid 892970
-06/30/2022 23:39:44: Using steam APPID:892970
-06/30/2022 23:39:44: Authentication:k_ESteamNetworkingAvailability_Attempting
-06/30/2022 23:39:44: Steam initialized, persona:Bagator
-06/30/2022 23:39:44: Using default prefs
-06/30/2022 23:39:44: Valheim version:0.209.10
-06/30/2022 23:39:44: Render threading mode:MultiThreaded
-06/30/2022 23:39:44: Missing audio clip in music respawn
-06/30/2022 23:39:44: Checking for installed DLCs
-06/30/2022 23:39:44: DLC:beta installed:False
-06/30/2022 23:39:44: Builder started
-06/30/2022 23:39:45: Loaded localization CSV:localization language:English
-06/30/2022 23:39:45: Loaded localization CSV:localization_extra language:English
-06/30/2022 23:39:45: Loaded localization CSV:localization language:Turkish
-06/30/2022 23:39:45: Loaded localization CSV:localization_extra language:Turkish
-06/30/2022 23:39:45: UI Group status changed Menu = True
+06/30/2022 23:42:04: Using environment steamid 892970
+06/30/2022 23:42:04: Using steam APPID:892970
+06/30/2022 23:42:04: Authentication:k_ESteamNetworkingAvailability_Attempting
+06/30/2022 23:42:04: Steam initialized, persona:Bagator
+06/30/2022 23:42:04: Using default prefs
+06/30/2022 23:42:04: Valheim version:0.209.10
+06/30/2022 23:42:04: Render threading mode:MultiThreaded
+06/30/2022 23:42:04: Missing audio clip in music respawn
+06/30/2022 23:42:04: Checking for installed DLCs
+06/30/2022 23:42:04: DLC:beta installed:False
+06/30/2022 23:42:04: Builder started
+06/30/2022 23:42:05: Loaded localization CSV:localization language:English
+06/30/2022 23:42:05: Loaded localization CSV:localization_extra language:English
+06/30/2022 23:42:05: Loaded localization CSV:localization language:Turkish
+06/30/2022 23:42:05: Loaded localization CSV:localization_extra language:Turkish
+06/30/2022 23:42:05: UI Group status changed Menu = True
 
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 106434.
-Total: 45.391700 ms (FindLiveObjects: 3.269500 ms CreateObjectMapping: 5.938900 ms MarkObjects: 36.011500 ms  DeleteObjects: 0.171500 ms)
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 106744.
+Total: 51.516400 ms (FindLiveObjects: 3.013600 ms CreateObjectMapping: 6.358600 ms MarkObjects: 41.943000 ms  DeleteObjects: 0.200600 ms)
 
-06/30/2022 23:39:47: UI Group status changed Menu = True
-06/30/2022 23:39:49: FOund selected Start game
-06/30/2022 23:39:49: show character selection
-06/30/2022 23:39:57: UI Group status changed Menu = True
-Setting up 8 worker threads for Enlighten.
-  Thread -> id: 2f3c -> priority: 1 
-  Thread -> id: 2b00 -> priority: 1 
-  Thread -> id: 24a8 -> priority: 1 
-  Thread -> id: 4dcc -> priority: 1 
-  Thread -> id: 208 -> priority: 1 
-  Thread -> id: 5198 -> priority: 1 
-  Thread -> id: 630 -> priority: 1 
-  Thread -> id: 50ec -> priority: 1 
-06/30/2022 23:39:58: Steam manager on destroy
+06/30/2022 23:42:07: UI Group status changed Menu = True
+06/30/2022 23:42:09: FOund selected Start game
+06/30/2022 23:42:09: show character selection
+06/30/2022 23:42:31: UI Group status changed Menu = True

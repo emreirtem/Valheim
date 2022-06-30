@@ -5,43 +5,112 @@ Initialize engine version: 2020.3.33f1 (915a7af8b0d5)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
     Vendor:   
-    VRAM:     6023 MB
-    Driver:   30.0.15.1179
+    VRAM:     3962 MB
+    Driver:   30.0.14.7196
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.062 seconds
+- Completed reload, in  0.156 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.576900 ms
-06/30/2022 23:42:01: Starting to load scene:start
+UnloadTime: 0.553100 ms
+07/01/2022 00:09:57: Starting to load scene:start
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Couldn't create a Convex Mesh from source mesh "default" within the maximum polygons limit (256). The partial hull will be used. Consider simplifying your mesh.
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 5.126000 ms
+UnloadTime: 6.298100 ms
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-06/30/2022 23:42:04: Using environment steamid 892970
-06/30/2022 23:42:04: Using steam APPID:892970
-06/30/2022 23:42:04: Authentication:k_ESteamNetworkingAvailability_Attempting
-06/30/2022 23:42:04: Steam initialized, persona:Bagator
-06/30/2022 23:42:04: Using default prefs
-06/30/2022 23:42:04: Valheim version:0.209.10
-06/30/2022 23:42:04: Render threading mode:MultiThreaded
-06/30/2022 23:42:04: Missing audio clip in music respawn
-06/30/2022 23:42:04: Checking for installed DLCs
-06/30/2022 23:42:04: DLC:beta installed:False
-06/30/2022 23:42:04: Builder started
-06/30/2022 23:42:05: Loaded localization CSV:localization language:English
-06/30/2022 23:42:05: Loaded localization CSV:localization_extra language:English
-06/30/2022 23:42:05: Loaded localization CSV:localization language:Turkish
-06/30/2022 23:42:05: Loaded localization CSV:localization_extra language:Turkish
-06/30/2022 23:42:05: UI Group status changed Menu = True
+07/01/2022 00:10:03: Using environment steamid 892970
+07/01/2022 00:10:03: Using steam APPID:892970
+07/01/2022 00:10:03: Authentication:k_ESteamNetworkingAvailability_Attempting
+07/01/2022 00:10:03: Steam initialized, persona:Cheers
+07/01/2022 00:10:03: Using default prefs
+07/01/2022 00:10:03: Valheim version:0.209.10
+07/01/2022 00:10:03: Render threading mode:MultiThreaded
+07/01/2022 00:10:03: Missing audio clip in music respawn
+07/01/2022 00:10:03: Checking for installed DLCs
+07/01/2022 00:10:03: DLC:beta installed:False
+07/01/2022 00:10:03: Builder started
+07/01/2022 00:10:04: Loaded localization CSV:localization language:English
+07/01/2022 00:10:04: Loaded localization CSV:localization_extra language:English
+07/01/2022 00:10:04: Loaded localization CSV:localization language:Turkish
+07/01/2022 00:10:04: Loaded localization CSV:localization_extra language:Turkish
+07/01/2022 00:10:04: UI Group status changed Menu = True
 
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 106744.
-Total: 51.516400 ms (FindLiveObjects: 3.013600 ms CreateObjectMapping: 6.358600 ms MarkObjects: 41.943000 ms  DeleteObjects: 0.200600 ms)
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 106603.
+Total: 67.124800 ms (FindLiveObjects: 4.307000 ms CreateObjectMapping: 12.395300 ms MarkObjects: 50.235200 ms  DeleteObjects: 0.186900 ms)
 
-06/30/2022 23:42:07: UI Group status changed Menu = True
-06/30/2022 23:42:09: FOund selected Start game
-06/30/2022 23:42:09: show character selection
-06/30/2022 23:42:31: UI Group status changed Menu = True
+07/01/2022 00:10:06: UI Group status changed Menu = True
+07/01/2022 00:10:08: FOund selected Start game
+07/01/2022 00:10:08: show character selection
+07/01/2022 00:10:12: OnCharacterStart
+07/01/2022 00:10:13: Friend is in our game
+07/01/2022 00:10:13: Failed to get lobby gameserver
+07/01/2022 00:10:13: Got requested lobby data
+07/01/2022 00:10:13: Failed to get lobby gameserver
+07/01/2022 00:10:44: Friend is in our game
+07/01/2022 00:10:44: Got requested lobby data
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.029600 ms
+07/01/2022 00:10:48: Steam initialized, persona:Cheers
+07/01/2022 00:10:48: Using default prefs
+07/01/2022 00:10:48: Loading player profile leo
+07/01/2022 00:10:48: isModded: False
+07/01/2022 00:10:48: Zonesystem Awake 2905
+07/01/2022 00:10:48: DungeonDB Awake 2905
+07/01/2022 00:10:48: Steam initialized, persona:Cheers
+07/01/2022 00:10:48: Audioman already exist, destroying self
+07/01/2022 00:10:48: Checking for installed DLCs
+07/01/2022 00:10:48: DLC:beta installed:False
+
+Unloading 530 unused Assets to reduce memory usage. Loaded Objects now: 106387.
+Total: 71.163000 ms (FindLiveObjects: 5.761200 ms CreateObjectMapping: 11.135800 ms MarkObjects: 53.383500 ms  DeleteObjects: 0.882100 ms)
+
+07/01/2022 00:10:52: Zonesystem Start 2905
+07/01/2022 00:10:52: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
+07/01/2022 00:10:52: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
+07/01/2022 00:10:52: DungeonDB Start 2905
+07/01/2022 00:10:53: Connecting to server 76561198169241845
+07/01/2022 00:10:53: Connecting to 76561198169241845
+07/01/2022 00:10:53: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+07/01/2022 00:10:53: New connection
+07/01/2022 00:10:55: Got status changed msg k_ESteamNetworkingConnectionState_FindingRoute
+07/01/2022 00:10:56: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+07/01/2022 00:11:00: VERSION check their:0.209.10  mine:0.209.10
+07/01/2022 00:11:03: client got keys 3
+07/01/2022 00:11:03: client got location icons
+07/01/2022 00:11:03: Icons:1
+07/01/2022 00:11:03: Session auth respons callback
+07/01/2022 00:11:12: Unpacking compressed mapdata 14699
+07/01/2022 00:11:12: Starting respawn
+07/01/2022 00:11:12: tip:$loadscreen_tip06
+07/01/2022 00:11:20: Spawned after 8,019994
+07/01/2022 00:11:20: Minimap: Adding unique location (6.2, 80.2, 3.9)
+07/01/2022 00:11:51: UI Group status changed MenuRoot = False
+07/01/2022 00:11:52: Game - OnApplicationQuit
+07/01/2022 00:11:52: Shuting down
+07/01/2022 00:11:52: Uncompressed size 8390986
+07/01/2022 00:11:52: Compressed size 14699
+07/01/2022 00:11:52: ZNet Shutdown
+07/01/2022 00:11:52: Sending disconnect msg
+07/01/2022 00:11:52: Sent to 76561198169241845
+07/01/2022 00:11:52: Released session ticket
+07/01/2022 00:11:52: Disposing socket
+07/01/2022 00:11:52: Closing socket 76561198169241845
+07/01/2022 00:11:52:   send queue size:0
+07/01/2022 00:11:52: Last socket, unregistering callback
+07/01/2022 00:11:52: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+07/01/2022 00:11:52: Disposing socket
+07/01/2022 00:11:52: Last socket, unregistering callback
+07/01/2022 00:11:52: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 19dc -> priority: 1 
+  Thread -> id: 2e48 -> priority: 1 
+  Thread -> id: 958 -> priority: 1 
+  Thread -> id: 3714 -> priority: 1 
+07/01/2022 00:11:55: Local player destroyed
+07/01/2022 00:11:55: Steam manager on destroy
+07/01/2022 00:11:55: FOund selected Button_yes
+07/01/2022 00:11:55: ZNet OnDestroy
+07/01/2022 00:11:55: Net scene destroyed
